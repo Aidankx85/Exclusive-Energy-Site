@@ -4,3 +4,4 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-black">Exclusive Energy & Electric</h1>
     </main>
   );
+}
